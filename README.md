@@ -2,10 +2,10 @@
 > an image lazy load  plugin for vue2.0
 
 # how to use it
-javascript:
-import Vue from 'vue'
-import lazy from '@/vue-lazy-load'
-Vue.use(lazy)
+#### javascript:  
+import Vue from 'vue'  
+import lazy from '@/vue-lazy-load'  
+Vue.use(lazy)  
 
-template:
-<img v-lazy="yourImgSrc">
+#### template:
+`<img v-lazy="yourImgSrc">`
